@@ -1,0 +1,8 @@
+{
+  "name": "Claude Code",
+  "description": "Agentic coding tool in the terminal — understand codebase, run tasks, git workflows via natural language. Includes plugins from this repo.",
+  "url": "https://github.com/nouveaustorede0a100k-netizen/Claude.git",
+  "icon": "icon.png",
+  "type": "github",
+  "id": "claude-code"
+}
