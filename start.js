@@ -1,0 +1,12 @@
+module.exports = {
+  run: [
+    {
+      method: "shell.run",
+      params: {
+        input: true,
+        chain: true,
+        message: "claude"
+      }
+    }
+  ]
+}

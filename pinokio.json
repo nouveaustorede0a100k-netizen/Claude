@@ -1,0 +1,5 @@
+{
+  "title": "Claude Code",
+  "description": "Anthropic's agentic coding tool that lives in your terminal",
+  "icon": "icon.png"
+}
